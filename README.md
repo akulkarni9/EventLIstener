@@ -2,4 +2,9 @@
 
 ##Steps to install:
 
-git clone 
+git clone https://github.com/akulkarni9/EventLIstener.git
+
+npm install
+
+
+
